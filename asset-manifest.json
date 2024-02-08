@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TriibeTask/static/css/main.1daf00bc.css",
+    "main.js": "/TriibeTask/static/js/main.ed48c097.js",
+    "index.html": "/TriibeTask/index.html",
+    "main.1daf00bc.css.map": "/TriibeTask/static/css/main.1daf00bc.css.map",
+    "main.ed48c097.js.map": "/TriibeTask/static/js/main.ed48c097.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1daf00bc.css",
+    "static/js/main.ed48c097.js"
+  ]
+}
