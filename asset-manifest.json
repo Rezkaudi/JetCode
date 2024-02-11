@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "/TriibeTask/static/css/main.e5d167c8.css",
-    "main.js": "/TriibeTask/static/js/main.bfe91f62.js",
+    "main.css": "/TriibeTask/static/css/main.8339bf79.css",
+    "main.js": "/TriibeTask/static/js/main.72eba665.js",
+    "static/media/Tribe_product Hunt_2024-vp9-chrome.mp4": "/TriibeTask/static/media/Tribe_product Hunt_2024-vp9-chrome.74c2f0086be74b6bf4ab.mp4",
     "static/media/hero_img.png": "/TriibeTask/static/media/hero_img.5ae58f8e208a2d332e8c.png",
+    "static/media/ai_2.svg": "/TriibeTask/static/media/ai_2.d2330fdad710eba3d6dad02073055637.svg",
+    "static/media/needle.svg": "/TriibeTask/static/media/needle.9e2f8b07da36d3a4497a688f508f7faf.svg",
+    "static/media/ai_1.svg": "/TriibeTask/static/media/ai_1.c1e05dfe6e6ecffaf7c665511435fb0f.svg",
     "static/media/apple-store.svg": "/TriibeTask/static/media/apple-store.7527460855ce07b6b1360bd060be75c6.svg",
+    "static/media/bottom-banner.svg": "/TriibeTask/static/media/bottom-banner.fb96e8fd40df19b4fbbe.svg",
     "static/media/logo-new.svg": "/TriibeTask/static/media/logo-new.f53863588c17da1444c96448756387eb.svg",
     "static/media/google-play.svg": "/TriibeTask/static/media/google-play.04bc00649c26fba7e27d7b413cf60380.svg",
     "static/media/top-post-badge.svg": "/TriibeTask/static/media/top-post-badge.b317dab660b0e72e934f98e4e95bec49.svg",
     "static/media/top-post-topic-badge.svg": "/TriibeTask/static/media/top-post-topic-badge.c5a292498c0a30accb3f36d79af23b42.svg",
     "index.html": "/TriibeTask/index.html",
-    "main.e5d167c8.css.map": "/TriibeTask/static/css/main.e5d167c8.css.map",
-    "main.bfe91f62.js.map": "/TriibeTask/static/js/main.bfe91f62.js.map"
+    "main.8339bf79.css.map": "/TriibeTask/static/css/main.8339bf79.css.map",
+    "main.72eba665.js.map": "/TriibeTask/static/js/main.72eba665.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5d167c8.css",
-    "static/js/main.bfe91f62.js"
+    "static/css/main.8339bf79.css",
+    "static/js/main.72eba665.js"
   ]
 }
