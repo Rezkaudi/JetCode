@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TriibeTask/static/css/main.148cf0d6.css",
-    "main.js": "/TriibeTask/static/js/main.f570a2d1.js",
+    "main.css": "/TriibeTask/static/css/main.f143af95.css",
+    "main.js": "/TriibeTask/static/js/main.7c014161.js",
     "static/media/Tribe_product Hunt_2024-vp9-chrome.mp4": "/TriibeTask/static/media/Tribe_product Hunt_2024-vp9-chrome.74c2f0086be74b6bf4ab.mp4",
     "static/media/hero_img.png": "/TriibeTask/static/media/hero_img.5ae58f8e208a2d332e8c.png",
     "static/media/recognition.webm": "/TriibeTask/static/media/recognition.187334c5f1ee70a85658.webm",
@@ -25,11 +25,11 @@
     "static/media/top-post-badge.svg": "/TriibeTask/static/media/top-post-badge.b317dab660b0e72e934f98e4e95bec49.svg",
     "static/media/top-post-topic-badge.svg": "/TriibeTask/static/media/top-post-topic-badge.c5a292498c0a30accb3f36d79af23b42.svg",
     "index.html": "/TriibeTask/index.html",
-    "main.148cf0d6.css.map": "/TriibeTask/static/css/main.148cf0d6.css.map",
-    "main.f570a2d1.js.map": "/TriibeTask/static/js/main.f570a2d1.js.map"
+    "main.f143af95.css.map": "/TriibeTask/static/css/main.f143af95.css.map",
+    "main.7c014161.js.map": "/TriibeTask/static/js/main.7c014161.js.map"
   },
   "entrypoints": [
-    "static/css/main.148cf0d6.css",
-    "static/js/main.f570a2d1.js"
+    "static/css/main.f143af95.css",
+    "static/js/main.7c014161.js"
   ]
 }
