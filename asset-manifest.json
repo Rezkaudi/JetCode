@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/TriibeTask/static/css/main.92ccf549.css",
-    "main.js": "/TriibeTask/static/js/main.f36ac2c3.js",
+    "main.css": "/TriibeTask/static/css/main.276913d4.css",
+    "main.js": "/TriibeTask/static/js/main.c6a54a6c.js",
     "static/media/Tribe_product Hunt_2024-vp9-chrome.mp4": "/TriibeTask/static/media/Tribe_product Hunt_2024-vp9-chrome.74c2f0086be74b6bf4ab.mp4",
-    "static/media/hero_img.png": "/TriibeTask/static/media/hero_img.5ae58f8e208a2d332e8c.png",
+    "static/media/Ai-2.png": "/TriibeTask/static/media/Ai-2.f4d75b42f4cbc799f15c.png",
     "static/media/recognition.webm": "/TriibeTask/static/media/recognition.187334c5f1ee70a85658.webm",
     "static/media/profiles.webm": "/TriibeTask/static/media/profiles.e2a5fb9911c4882684d1.webm",
     "static/media/wellness_challenges.webm": "/TriibeTask/static/media/wellness_challenges.1b33f53f56c3d06d8828.webm",
@@ -25,11 +25,11 @@
     "static/media/top-post-badge.svg": "/TriibeTask/static/media/top-post-badge.b317dab660b0e72e934f98e4e95bec49.svg",
     "static/media/top-post-topic-badge.svg": "/TriibeTask/static/media/top-post-topic-badge.c5a292498c0a30accb3f36d79af23b42.svg",
     "index.html": "/TriibeTask/index.html",
-    "main.92ccf549.css.map": "/TriibeTask/static/css/main.92ccf549.css.map",
-    "main.f36ac2c3.js.map": "/TriibeTask/static/js/main.f36ac2c3.js.map"
+    "main.276913d4.css.map": "/TriibeTask/static/css/main.276913d4.css.map",
+    "main.c6a54a6c.js.map": "/TriibeTask/static/js/main.c6a54a6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.92ccf549.css",
-    "static/js/main.f36ac2c3.js"
+    "static/css/main.276913d4.css",
+    "static/js/main.c6a54a6c.js"
   ]
 }
