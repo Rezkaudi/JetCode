@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TriibeTask/static/css/main.276913d4.css",
-    "main.js": "/TriibeTask/static/js/main.c6a54a6c.js",
+    "main.css": "/TriibeTask/static/css/main.68ba7bac.css",
+    "main.js": "/TriibeTask/static/js/main.de09ebcd.js",
     "static/media/Tribe_product Hunt_2024-vp9-chrome.mp4": "/TriibeTask/static/media/Tribe_product Hunt_2024-vp9-chrome.74c2f0086be74b6bf4ab.mp4",
     "static/media/Ai-2.png": "/TriibeTask/static/media/Ai-2.f4d75b42f4cbc799f15c.png",
     "static/media/recognition.webm": "/TriibeTask/static/media/recognition.187334c5f1ee70a85658.webm",
@@ -22,14 +22,13 @@
     "static/media/bottom-banner.svg": "/TriibeTask/static/media/bottom-banner.fb96e8fd40df19b4fbbe.svg",
     "static/media/logo-new.svg": "/TriibeTask/static/media/logo-new.f53863588c17da1444c96448756387eb.svg",
     "static/media/google-play.svg": "/TriibeTask/static/media/google-play.04bc00649c26fba7e27d7b413cf60380.svg",
-    "static/media/top-post-badge.svg": "/TriibeTask/static/media/top-post-badge.b317dab660b0e72e934f98e4e95bec49.svg",
-    "static/media/top-post-topic-badge.svg": "/TriibeTask/static/media/top-post-topic-badge.c5a292498c0a30accb3f36d79af23b42.svg",
+    "static/media/check-circle-1.svg": "/TriibeTask/static/media/check-circle-1.b88f80f27add0628a165.svg",
     "index.html": "/TriibeTask/index.html",
-    "main.276913d4.css.map": "/TriibeTask/static/css/main.276913d4.css.map",
-    "main.c6a54a6c.js.map": "/TriibeTask/static/js/main.c6a54a6c.js.map"
+    "main.68ba7bac.css.map": "/TriibeTask/static/css/main.68ba7bac.css.map",
+    "main.de09ebcd.js.map": "/TriibeTask/static/js/main.de09ebcd.js.map"
   },
   "entrypoints": [
-    "static/css/main.276913d4.css",
-    "static/js/main.c6a54a6c.js"
+    "static/css/main.68ba7bac.css",
+    "static/js/main.de09ebcd.js"
   ]
 }
