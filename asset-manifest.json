@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TriibeTask/static/css/main.cd20ee84.css",
-    "main.js": "/TriibeTask/static/js/main.cb3265ab.js",
+    "main.css": "/TriibeTask/static/css/main.1d0a36a7.css",
+    "main.js": "/TriibeTask/static/js/main.1eb260f3.js",
     "static/media/Tribe_product Hunt_2024-vp9-chrome.mp4": "/TriibeTask/static/media/Tribe_product Hunt_2024-vp9-chrome.74c2f0086be74b6bf4ab.mp4",
     "static/media/Ai-2.png": "/TriibeTask/static/media/Ai-2.f4d75b42f4cbc799f15c.png",
     "static/media/recognition.webm": "/TriibeTask/static/media/recognition.187334c5f1ee70a85658.webm",
@@ -24,11 +24,11 @@
     "static/media/google-play.svg": "/TriibeTask/static/media/google-play.04bc00649c26fba7e27d7b413cf60380.svg",
     "static/media/check-circle-1.svg": "/TriibeTask/static/media/check-circle-1.b88f80f27add0628a165.svg",
     "index.html": "/TriibeTask/index.html",
-    "main.cd20ee84.css.map": "/TriibeTask/static/css/main.cd20ee84.css.map",
-    "main.cb3265ab.js.map": "/TriibeTask/static/js/main.cb3265ab.js.map"
+    "main.1d0a36a7.css.map": "/TriibeTask/static/css/main.1d0a36a7.css.map",
+    "main.1eb260f3.js.map": "/TriibeTask/static/js/main.1eb260f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd20ee84.css",
-    "static/js/main.cb3265ab.js"
+    "static/css/main.1d0a36a7.css",
+    "static/js/main.1eb260f3.js"
   ]
 }
