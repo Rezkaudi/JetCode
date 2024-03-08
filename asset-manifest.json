@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/TriibeTask/static/css/main.4caba8de.css",
-    "main.js": "/TriibeTask/static/js/main.04794b22.js",
-    "static/media/Tribe_product Hunt_2024-vp9-chrome.mp4": "/TriibeTask/static/media/Tribe_product Hunt_2024-vp9-chrome.74c2f0086be74b6bf4ab.mp4",
+    "main.css": "/TriibeTask/static/css/main.d90f108d.css",
+    "main.js": "/TriibeTask/static/js/main.6afba6fe.js",
+    "static/media/saas_demo.mp4": "/TriibeTask/static/media/saas_demo.a617b7165bb898d3a9b9.mp4",
     "static/media/Ai-2.png": "/TriibeTask/static/media/Ai-2.f4d75b42f4cbc799f15c.png",
     "static/media/recognition.webm": "/TriibeTask/static/media/recognition.187334c5f1ee70a85658.webm",
     "static/media/profiles.webm": "/TriibeTask/static/media/profiles.e2a5fb9911c4882684d1.webm",
@@ -16,15 +16,16 @@
     "static/media/feedback.webm": "/TriibeTask/static/media/feedback.59549967b92ca54f19fa.webm",
     "static/media/realtime_analytics.webm": "/TriibeTask/static/media/realtime_analytics.36f0b920886613019bb4.webm",
     "static/media/ai_2.svg": "/TriibeTask/static/media/ai_2.d2330fdad710eba3d6dad02073055637.svg",
+    "static/media/logo192.png": "/TriibeTask/static/media/logo192.c694c9de6e76238fc2b2.png",
     "static/media/needle.svg": "/TriibeTask/static/media/needle.9e2f8b07da36d3a4497a688f508f7faf.svg",
     "static/media/ai_1.svg": "/TriibeTask/static/media/ai_1.c1e05dfe6e6ecffaf7c665511435fb0f.svg",
     "static/media/bottom-banner.svg": "/TriibeTask/static/media/bottom-banner.fb96e8fd40df19b4fbbe.svg",
     "index.html": "/TriibeTask/index.html",
-    "main.4caba8de.css.map": "/TriibeTask/static/css/main.4caba8de.css.map",
-    "main.04794b22.js.map": "/TriibeTask/static/js/main.04794b22.js.map"
+    "main.d90f108d.css.map": "/TriibeTask/static/css/main.d90f108d.css.map",
+    "main.6afba6fe.js.map": "/TriibeTask/static/js/main.6afba6fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.4caba8de.css",
-    "static/js/main.04794b22.js"
+    "static/css/main.d90f108d.css",
+    "static/js/main.6afba6fe.js"
   ]
 }
