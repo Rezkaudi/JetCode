@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TriibeTask/static/css/main.661b321d.css",
-    "main.js": "/TriibeTask/static/js/main.6afba6fe.js",
+    "main.css": "/TriibeTask/static/css/main.cfa22aa8.css",
+    "main.js": "/TriibeTask/static/js/main.0bc13b65.js",
     "static/media/saas_demo.mp4": "/TriibeTask/static/media/saas_demo.a617b7165bb898d3a9b9.mp4",
     "static/media/Ai-2.png": "/TriibeTask/static/media/Ai-2.f4d75b42f4cbc799f15c.png",
     "static/media/recognition.webm": "/TriibeTask/static/media/recognition.187334c5f1ee70a85658.webm",
@@ -21,11 +21,11 @@
     "static/media/ai_1.svg": "/TriibeTask/static/media/ai_1.c1e05dfe6e6ecffaf7c665511435fb0f.svg",
     "static/media/bottom-banner.svg": "/TriibeTask/static/media/bottom-banner.fb96e8fd40df19b4fbbe.svg",
     "index.html": "/TriibeTask/index.html",
-    "main.661b321d.css.map": "/TriibeTask/static/css/main.661b321d.css.map",
-    "main.6afba6fe.js.map": "/TriibeTask/static/js/main.6afba6fe.js.map"
+    "main.cfa22aa8.css.map": "/TriibeTask/static/css/main.cfa22aa8.css.map",
+    "main.0bc13b65.js.map": "/TriibeTask/static/js/main.0bc13b65.js.map"
   },
   "entrypoints": [
-    "static/css/main.661b321d.css",
-    "static/js/main.6afba6fe.js"
+    "static/css/main.cfa22aa8.css",
+    "static/js/main.0bc13b65.js"
   ]
 }
