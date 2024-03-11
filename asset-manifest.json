@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JetCode/static/css/main.89e4c93b.css",
-    "main.js": "/JetCode/static/js/main.1dcf3584.js",
+    "main.css": "/JetCode/static/css/main.c4c1790a.css",
+    "main.js": "/JetCode/static/js/main.a59f2fc3.js",
     "static/media/saas_demo.mp4": "/JetCode/static/media/saas_demo.a617b7165bb898d3a9b9.mp4",
     "static/media/Ai-2.png": "/JetCode/static/media/Ai-2.f4d75b42f4cbc799f15c.png",
     "static/media/recognition.webm": "/JetCode/static/media/recognition.187334c5f1ee70a85658.webm",
@@ -19,11 +19,11 @@
     "static/media/needle.svg": "/JetCode/static/media/needle.9e2f8b07da36d3a4497a688f508f7faf.svg",
     "static/media/ai_1.svg": "/JetCode/static/media/ai_1.c1e05dfe6e6ecffaf7c665511435fb0f.svg",
     "index.html": "/JetCode/index.html",
-    "main.89e4c93b.css.map": "/JetCode/static/css/main.89e4c93b.css.map",
-    "main.1dcf3584.js.map": "/JetCode/static/js/main.1dcf3584.js.map"
+    "main.c4c1790a.css.map": "/JetCode/static/css/main.c4c1790a.css.map",
+    "main.a59f2fc3.js.map": "/JetCode/static/js/main.a59f2fc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.89e4c93b.css",
-    "static/js/main.1dcf3584.js"
+    "static/css/main.c4c1790a.css",
+    "static/js/main.a59f2fc3.js"
   ]
 }
