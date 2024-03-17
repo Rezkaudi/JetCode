@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JetCode/static/css/main.fee46eeb.css",
-    "main.js": "/JetCode/static/js/main.60e5ba87.js",
+    "main.js": "/JetCode/static/js/main.222cf63f.js",
     "static/media/saas_demo.mp4": "/JetCode/static/media/saas_demo.a617b7165bb898d3a9b9.mp4",
     "static/media/Ai-2.png": "/JetCode/static/media/Ai-2.f4d75b42f4cbc799f15c.png",
     "static/media/recognition.webm": "/JetCode/static/media/recognition.187334c5f1ee70a85658.webm",
@@ -21,10 +21,10 @@
     "static/media/platform.svg": "/JetCode/static/media/platform.f16dfb98a8ab58cee971fc533c05d525.svg",
     "index.html": "/JetCode/index.html",
     "main.fee46eeb.css.map": "/JetCode/static/css/main.fee46eeb.css.map",
-    "main.60e5ba87.js.map": "/JetCode/static/js/main.60e5ba87.js.map"
+    "main.222cf63f.js.map": "/JetCode/static/js/main.222cf63f.js.map"
   },
   "entrypoints": [
     "static/css/main.fee46eeb.css",
-    "static/js/main.60e5ba87.js"
+    "static/js/main.222cf63f.js"
   ]
 }
